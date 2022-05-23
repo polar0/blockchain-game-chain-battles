@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# [Blockchain Game : Chain Battles](https://docs.alchemy.com/alchemy/road-to-web3/weekly-learning-challenges/3.-how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript#create-the-generatecharacter-function-to-create-the-svg-image)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project is part of the Road To Web3 journey with Alchemy.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+[Smart Contract (Polygon)](https://mumbai.polygonscan.com/address/0xeb909D9233f96124d216E3B3Ea018271De98e91C)
